@@ -4,4 +4,4 @@ Also known as the Syracuse problem : [https://en.wikipedia.org/wiki/Syracuse_pro
 
 This is a JavaScript graphical representation of this problem.
 
-[**[Try it out]**](http://jmpp.githug.io/syracuse)
+[**[Try it out]**](http://jmpp.github.io/syracuse)
